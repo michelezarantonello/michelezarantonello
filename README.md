@@ -49,7 +49,7 @@ I am particularly motivated by the intersection between robotics, artificial int
 
 **Programming Languages:** Python, MATLAB, C++, Java  
 **Frameworks and Tools:** PyTorch, ROS2, OpenCV, Simulink, Git  
-**Domains:** Control Systems, Deep Learning, Computer Vision, Robotics, Reinforcement Learning  
+**Domains:**  Machine Learning, Deep Learning, Robotics, Computer Vision, Reinforcement Learning, Control Systems
 
 ---
 
