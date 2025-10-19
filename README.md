@@ -56,4 +56,4 @@ I am particularly motivated by the intersection between robotics, artificial int
 ## Contact
 
 **Email:** michele.zarantonello01@gmail.com  
-**LinkedIn:** [linkedin.com/in/michelezarantonello](https://linkedin.com/in/michelezarantonello)
+**LinkedIn:** www.linkedin.com/in/michele-zarantonello-1986ab377
