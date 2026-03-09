@@ -22,6 +22,12 @@ I am also experienced in the design and implementation of **advanced control sys
   3D classification using both 3D and 2D CNNs on voxelized meshes from the ModelNet40 dataset.
   
   *Technologies:* Python, PyTorch, NumPy
+
+### Robotics
+- **[Turtlebot navigation - Manipulator cube swapping](https://github.com/michelezarantonello/ros2_turtlebot_and_manipulator)**  
+  Two ros2 projects: the first focuses on mobile robot navigation (using Apriltags) and object detection (using /scan). The second deals with a UR5 manipulator, with the goal of safely swapping two cubes and detecting their color.
+  
+  *Technologies:* Ros2, Gazebo, RViz, C++, Python
   
 ### Computer Vision
 - **[lanes/vehicle detection](https://github.com/michelezarantonello/lane_detector)**  
