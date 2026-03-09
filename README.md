@@ -20,7 +20,8 @@ I am also experienced in the design and implementation of **advanced control sys
 ### Deep Learning
 - **[3D object_classification](https://github.com/michelezarantonello/3d_classifier)**  
   3D classification using both 3D and 2D CNNs on voxelized meshes from the ModelNet40 dataset.  
-  *Technologies:* Python, PyTorch, NumPy  
+  *Technologies:* Python, PyTorch, NumPy
+  
 ### Computer Vision
 - **[lanes/vehicle detection](https://github.com/michelezarantonello/lane_detector)**  
   Street lanes detection, vehicle detection, vehicle proximity check.
