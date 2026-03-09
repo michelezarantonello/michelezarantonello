@@ -19,7 +19,8 @@ I am also experienced in the design and implementation of **advanced control sys
 
 ### Deep Learning
 - **[3D object_classification](https://github.com/michelezarantonello/3d_classifier)**  
-  3D classification using both 3D and 2D CNNs on voxelized meshes from the ModelNet40 dataset.  
+  3D classification using both 3D and 2D CNNs on voxelized meshes from the ModelNet40 dataset.
+  
   *Technologies:* Python, PyTorch, NumPy
   
 ### Computer Vision
@@ -30,11 +31,13 @@ I am also experienced in the design and implementation of **advanced control sys
 
 ### Control and Robotics
 - **[Unicycle control - trajectory tracking](https://github.com/michelezarantonello/unicycle_trajtracking)**  
-  Design and implementation of unicycle kinematics and relative trajectory (both linear, nonlinear and with output feedback) and regulation (both position and posture) controllers.  
+  Design and implementation of unicycle kinematics and relative trajectory (both linear, nonlinear and with output feedback) and regulation (both position and posture) controllers.
+  
   *Technologies:* MATLAB, Simulink
 
 - **[DC Motor Control – State Feedback & LQR](https://github.com/michelezarantonello/dc-motor-control)**  
-  Design and implementation of state-space controllers (PID, pole placement, and LQR) for a DC motor with load.  
+  Design and implementation of state-space controllers (PID, pole placement, and LQR) for a DC motor with load.
+   
   *Technologies:* MATLAB, Simulink
 
 ---
