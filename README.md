@@ -2,7 +2,7 @@
 
 **MSc Student in Control Systems Engineering** @ University of Padova, Italy 
 
-**BSc in Computer Engineering** @ University of Padova (104/110)
+**BSc in Computer Engineering** @ University of Padova 
 
 ---
 
