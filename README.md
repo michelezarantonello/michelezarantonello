@@ -10,7 +10,7 @@
 
 I am a Control Systems Engineering student with a strong background in computer science.  
 I'm passionate about **machine learning**, **deep learning**, **reinforcement learning**, **computer vision**, and **robotics**.  
-I am also experienced in the design and implementation of **advanced control systems** such as PID and LQR controllers.
+I am also experienced in the design and implementation of **advanced control systems**.
 
 
 ---
