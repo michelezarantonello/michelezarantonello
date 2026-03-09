@@ -17,15 +17,6 @@ I am also experienced in the design and implementation of **advanced control sys
 
 ## Selected Projects
 
-### Control and Robotics
-- **[Unicycle control - trajectory tracking](https://github.com/michelezarantonello/unicycle_trajtracking)**  
-  Design and implementation of unicycle kinematics and relative trajectory (both linear, nonlinear and with output feedback) and regulation (both position and posture) controllers.  
-  *Technologies:* MATLAB, Simulink
-
-- **[DC Motor Control – State Feedback & LQR](https://github.com/michelezarantonello/dc-motor-control)**  
-  Design and implementation of state-space controllers (PID, pole placement, and LQR) for a DC motor with load.  
-  *Technologies:* MATLAB, Simulink
-
 ### Deep Learning
 - **[3D object_classification](https://github.com/michelezarantonello/3d_classifier)**  
   3D classification using both 3D and 2D CNNs on voxelized meshes from the ModelNet40 dataset.  
@@ -35,6 +26,15 @@ I am also experienced in the design and implementation of **advanced control sys
   Street lanes detection, vehicle detection, vehicle proximity check.
   *Technologies:* Python, OpenCV, yolov3  
 
+### Control and Robotics
+- **[Unicycle control - trajectory tracking](https://github.com/michelezarantonello/unicycle_trajtracking)**  
+  Design and implementation of unicycle kinematics and relative trajectory (both linear, nonlinear and with output feedback) and regulation (both position and posture) controllers.  
+  *Technologies:* MATLAB, Simulink
+
+- **[DC Motor Control – State Feedback & LQR](https://github.com/michelezarantonello/dc-motor-control)**  
+  Design and implementation of state-space controllers (PID, pole placement, and LQR) for a DC motor with load.  
+  *Technologies:* MATLAB, Simulink
+
 ---
 
 ## Current Projects
@@ -42,6 +42,7 @@ I am also experienced in the design and implementation of **advanced control sys
 - Currently working on Bosch Future Mobility Challenge developing autonomous driving algorithms on 1/10 scale vehicle: https://boschfuturemobility.com/
 - Attending Natural Language Processing course and doing its relative project
 - Attending Estimation and Filtering course and doing its relative project
+- Currently doing Reinforcement Learning project
 ## Contact
 
 **Email:** michele.zarantonello01@gmail.com  
