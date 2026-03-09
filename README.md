@@ -35,7 +35,7 @@ I am also experienced in the design and implementation of **advanced control sys
   
   *Technologies:* Python, OpenCV, yolov3  
 
-### Control and Robotics
+### Control 
 - **[Unicycle control - trajectory tracking](https://github.com/michelezarantonello/unicycle_trajtracking)**  
   Design and implementation of unicycle kinematics and relative trajectory (both linear, nonlinear and with output feedback) and regulation (both position and posture) controllers.
   
