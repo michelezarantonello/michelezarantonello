@@ -25,6 +25,7 @@ I am also experienced in the design and implementation of **advanced control sys
 ### Computer Vision
 - **[lanes/vehicle detection](https://github.com/michelezarantonello/lane_detector)**  
   Street lines, lanes and vehicles detection. Vehicles proximity check. (Almost) everything relies on traditional CV techniques.
+  
   *Technologies:* Python, OpenCV, yolov3  
 
 ### Control and Robotics
